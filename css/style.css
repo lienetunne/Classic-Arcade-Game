@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+.col {
+  margin-top: 20px;
+}
+.fade{
+  display: none;
+}
+.col-12{
+  margin-bottom: -40px;
+}
+.width0{
+  width: 1%;
+}
+.width25{
+  width: 25%;
+}
+.width50{
+  width: 50%;
+}
+.width75{
+  width: 75%;
+}
+.width100{
+  width:100%;
+}
+.modal-title{
+  text-align: center;
+}
