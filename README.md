@@ -8,7 +8,7 @@ This game was made by Liene Tunne, Udacity FEND student
 * [Game dependencies](#dependencies)
 
 ## To run
-- Download or fork the application from [here](https://github.com/AaronJuarez/frontend-nanodegree-arcade-game)
+- Download or fork the application from [here](https://github.com/lienetunne/Classic-Arcade-Game)
 - Select ```index.html``` to start the app
 
 ## How to play
